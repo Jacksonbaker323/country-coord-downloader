@@ -1,0 +1,19 @@
+{
+  "name": "wiki_downloader",
+  "version": "1.0.0",
+  "description": "Downloads countries and their capital cities coordinates from wikipedia.",
+  "main": "app.js",
+  "dependencies": {
+    "async": "~0.2.10",
+    "cheerio": "~0.13.1",
+    "json2csv": "~2.2.1",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "private": true
+}
